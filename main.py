@@ -41,9 +41,6 @@ def main():
         char_freqs = count_letters(file_contents)
         print_char_freqs(char_freqs)
 
-        
-        
-
     print("--- End report ---")
 
 main()
